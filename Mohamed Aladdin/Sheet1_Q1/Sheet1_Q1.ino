@@ -1,4 +1,4 @@
-int blinkLED=0;
+int blinkLED=2;
 
 void setup() {
   pinMode(blinkLED,OUTPUT);
