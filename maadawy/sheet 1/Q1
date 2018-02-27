@@ -1,0 +1,19 @@
+int LED_blink = 7;
+
+void setup() {
+  // put your setup code here, to run once:
+  
+  pinMode(LED_blink, OUTPUT);
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  
+  digitalWrite(LED_blink, HIGH);
+  delay(500);
+  
+  digitalWrite(LED_blink, LOW);
+  delay(1500);
+
+}
