@@ -9,7 +9,7 @@ Team members:
 - Youssef Mohamed Moro				
 - Youssef Mohamed Abo Al Maaty 			
 - Youssef Osama Abd Al Lateef		   		 
-- Mohamed Aladdin  
+- Mohamed Aladdin Mohamed Mohamed
 - Mostafa Mohamed Abd Al Mageed  
 - Mosatafa Mohamed Ali  
 - Mostafa Adel Mostafa  
