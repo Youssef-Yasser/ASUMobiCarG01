@@ -1,5 +1,6 @@
 # ASUMobiCarG16
-Youtube Link for the Project: https://youtu.be/BKCSXLblGHQ 
+Youtube Link for the Project Phase 1: https://youtu.be/BKCSXLblGHQ   
+Youtube link for Phase 2 (Line follower) : https://www.youtube.com/watch?v=LFMUklJRDQI and https://www.youtube.com/watch?v=h_A58QZmsv8&feature=youtu.be
 
 We are a group of Electrical engineering students at Ain Shams University and we were assigned to make a Mobile Controlled Car. 
 
